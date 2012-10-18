@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+	cout << "Ingibjorg Johannsdottir" << endl;
 	return 0;
 }
 
